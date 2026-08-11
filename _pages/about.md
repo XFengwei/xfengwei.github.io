@@ -24,9 +24,9 @@ I received my Ph.D. in Astronomy from the <a href="https://kiaa.pku.edu.cn">Kavl
 
 <ul class="compact-list">
   <li><strong>Massive protostellar cluster formation:</strong> uncovering how clouds fragment, channel gas, and dynamically assemble the dense clusters in which massive stars are born.</li>
-  <li><strong>Astrochemistry:</strong> reading the molecular fingerprints of hot cores to reconstruct their chemical evolution during massive-star formation.</li>
   <li><strong>Magnetic fields:</strong> using millimeter-wavelength dust polarization to reveal how magnetic fields shape collapsing clouds, cores, and clusters.</li>
   <li><strong>Molecular clouds across Galactic environments:</strong> connecting cloud physics across the Milky Way—from nearby high-latitude clouds and giant Galactic filaments to the extreme Central Molecular Zone.</li>
+  <li><strong>Astrochemistry:</strong> reading the molecular fingerprints of hot cores to reconstruct their chemical evolution during massive-star formation.</li>
   <li><strong>Millimeter and radio interferometry:</strong> turning challenging observations into high-contrast, high-dynamic-range images through precision calibration and advanced imaging.</li>
 </ul>
 

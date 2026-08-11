@@ -11,7 +11,12 @@ My work examines how interstellar gas is organized and converted into stars, fro
 
 The **Linear Filament and Nested Cluster Evolution Tomography (LANCET)** program uses the nearly linear, 14-pc G316.8 filament as a controlled laboratory. Its adjacent subregions contain comparable gas reservoirs but span a clear evolutionary sequence. Matched observations can therefore separate evolutionary changes from the distance and environmental differences that complicate Galaxy-wide samples.
 
-The first LANCET results use 118 ALMA mosaic pointings to follow how dense gas structure and star formation change along the filament ([Xu et al. 2026](https://doi.org/10.1051/0004-6361/202557480)).
+The first LANCET results use wide-field ALMA mosaic pointings to follow how dense gas structure and star formation change along the filament ([Xu et al. 2026](https://doi.org/10.1051/0004-6361/202557480)). The second LANCET study combines observations across the full range of spatial scales—from the highest-resolution ALMA configurations to total-power single-dish data—to achieve exceptional image dynamic range and physical-scale coverage. This unprecedented data set reveals how structure emerges from molecular clouds down to dense cores (Xu et al., A&A, under review).
+
+<figure class="research-figure">
+  <img src="/images/research/lancet-multiscale-continuum.png" alt="Combined multiscale continuum image of the G316.8 filament, showing extended cloud structure and compact dense cores">
+  <figcaption>A multiscale view of the G316.8 filament, combining ALMA 12-m, 7-m, and total-power observations to recover structures from the molecular-cloud scale down to compact dense cores.</figcaption>
+</figure>
 
 ## DUET: star formation in the Galactic Center
 
