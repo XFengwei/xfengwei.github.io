@@ -17,7 +17,7 @@ The first LANCET results use 118 ALMA mosaic pointings to follow how dense gas s
 
 The **[Dual-band Unified Exploration of Three CMZ Clouds (DUET)](https://cmzconcert.github.io/#programs)** targets the 20 km s<sup>-1</sup> cloud, Sgr C, and dust-ridge cloud e with ALMA at 1.3 and 3 mm. The matched 0.2-0.3 arcsec resolution corresponds to roughly 2,000 au at the Galactic Center.
 
-Project resources: [DUET program](https://cmzconcert.github.io/#programs) · [magnifier analysis repository](https://github.com/XFengwei/magnifier)
+Project resources: [DUET program](https://cmzconcert.github.io/#programs) · [interactive magnifier](https://xfengwei.github.io/magnifier/)
 
 The survey produced a dual-band catalog of 450 continuum sources. More than 70% depart from commonly used modified-blackbody expectations, pointing to compact optically thick structures, dust-grain growth, or free-free contamination. These results motivate deeper tests of the low-mass protostellar population in the Central Molecular Zone ([Xu et al. 2025](https://doi.org/10.1051/0004-6361/202453601)).
 
