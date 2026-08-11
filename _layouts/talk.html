@@ -33,16 +33,26 @@ layout: default
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{% if page.date_display %}{{ page.date_display }}{% else %}{{ page.date | date: "%B %d, %Y" }}{% endif %}</time></p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
+        {% if page.type or page.venue or page.location %}
+          <p class="talk-detail__meta">
+            {% if page.type %}<strong>{{ page.type }}</strong>{% endif %}
+            {% if page.venue %}<span>{{ page.venue }}</span>{% endif %}
+            {% if page.location %}<span>{{ page.location }}</span>{% endif %}
+          </p>
+        {% endif %}
 
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link %}
+          <div class="talk-detail__official-link">
+            <a href="{{ page.link }}" class="btn" target="_blank" rel="noopener noreferrer">{{ page.link_label | default: "Official announcement or program" }}</a>
+          </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">

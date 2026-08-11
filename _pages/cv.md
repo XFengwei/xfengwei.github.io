@@ -11,21 +11,21 @@ redirect_from:
 
 ## Appointments
 
-- **Postdoctoral Fellow**, Planet Formation and Exoplanets, Max Planck Institute for Astronomy, Heidelberg, 2025-present.
-- **Visiting Ph.D. Researcher**, I. Physikalisches Institut, University of Cologne, 2024-2025.
+- **Postdoctoral Independent Fellow**, [Planet Formation and Exoplanets](https://www.mpia.de/en/pfe), Max Planck Institute for Astronomy, Heidelberg, 2025-present.
+- **Visiting Ph.D. Researcher**, [Peter Schilke's Group](https://astro.uni-koeln.de/schilke/research-group), I. Physikalisches Institut, University of Cologne, 2024-2025.
 
 ## Education
 
-- **Ph.D. in Astronomy**, Kavli Institute for Astronomy and Astrophysics, Peking University, 2025.
-- **B.S. in Physics**, School of Physics, Peking University, 2020.
+- **Ph.D. in Astronomy**, Kavli Institute for Astronomy and Astrophysics, Peking University, 2020-2025.
+- **B.S. in Physics**, School of Physics, Peking University, 2016-2020.
 
-## Research experience
-
-- LANCET: evolutionary tomography of dense gas and nested cluster formation.
-- DUET: matched-resolution ALMA survey of three Central Molecular Zone clouds.
-- QUARKS and ATOMS: dense-gas assembly, molecular kinematics, and stellar feedback in massive clumps.
-- ASSEMBLE: fragmentation, accretion, and the evolution of massive protoclusters.
-- High-latitude molecular clouds and the local interstellar medium.
+## Research projects
+- [LANCET](https://ui.adsabs.harvard.edu/abs/2026A&A...708A.251X/abstract) (PI): evolutionary tomography of dense gas and nested cluster formation.
+- [QUARKS/ATOMS](https://almaquarks.github.io/) (Co-PI): dense-gas assembly, molecular kinematics, and stellar feedback in massive clumps.
+- [ASSEMBLE](https://ui.adsabs.harvard.edu/public-libraries/YZYUDv-6T-SRf4XzTFTXhg) (PI): fragmentation, accretion, and the evolution of massive protoclusters.
+- [HLPC](https://ui.adsabs.harvard.edu/public-libraries/n_C2xkGUTzydLH57i0-BKQ) (PI): High-latitude molecular clouds and the local interstellar medium (PI).
+- [DUET](https://cmzconcert.github.io/#programs) (Co-I): matched-resolution ALMA survey of three Central Molecular Zone clouds ([magnifier repository](https://github.com/XFengwei/magnifier)).
+- [MagMaR](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html) (Co-I): Magnetic fields in massive star-forming regions.
 
 ## Selected honors
 

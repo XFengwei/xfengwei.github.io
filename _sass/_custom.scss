@@ -47,6 +47,51 @@
   opacity: 0.78;
 }
 
+.talk-list__item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.2);
+}
+
+.talk-list__item .archive__item-title {
+  margin-top: 0.75rem;
+  margin-bottom: 0.2rem;
+}
+
+.talk-list__meta {
+  margin: 0 0 0.55rem;
+  color: var(--global-text-color-light);
+  font-size: $type-size-6;
+}
+
+.talk-list__item .archive__item-excerpt p {
+  margin: 0;
+}
+
+.talk-list__links {
+  margin: 0.45rem 0 0;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+}
+
+.talk-detail__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.65rem;
+  color: var(--global-text-color-light);
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+}
+
+.talk-detail__meta span::before {
+  margin-right: 0.65rem;
+  content: "\2022";
+}
+
+.talk-detail__official-link {
+  margin-top: 1.5rem;
+}
+
 .compact-list li {
   margin-bottom: 0.5rem;
 }
