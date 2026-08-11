@@ -32,6 +32,7 @@ I received my Ph.D. in Astronomy from the <a href="https://kiaa.pku.edu.cn">Kavl
 
 ## Recent highlights
 
+- **MagMaR (2026):** ALMA full-polarization observations of W33 A resolve 20 dense cores and nine filaments, showing how magnetic fields can stabilize filaments, regulate accretion, and delay core collapse ([A&A, accepted](https://doi.org/10.1051/0004-6361/202558322)).
 - **LANCET (2026):** The first study in the Linear Filament and Nested Cluster Evolution Tomography program follows the evolution of dense gas across the 14-pc G316.8 filament ([A&A 708, A251](https://doi.org/10.1051/0004-6361/202557480)).
 - **DUET (2025):** A matched-resolution, dual-band ALMA census identified 450 continuum sources across three Central Molecular Zone clouds and revealed widespread low spectral indices ([A&A 697, A164](https://doi.org/10.1051/0004-6361/202453601)).
 - **ASSEMBLE (2024):** Comparative ALMA observations traced systematic core growth, cluster contraction, and primordial mass segregation during massive-protocluster evolution ([ApJS 270, 9](https://ui.adsabs.harvard.edu/abs/2024ApJS..270....9X/abstract)).
