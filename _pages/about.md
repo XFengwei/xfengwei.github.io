@@ -23,9 +23,11 @@ I received my Ph.D. in Astronomy from the <a href="https://kiaa.pku.edu.cn">Kavl
 ## Research focus
 
 <ul class="compact-list">
-  <li><strong>Massive star and cluster formation:</strong> fragmentation, gas inflow, accretion, and the dynamical assembly of protostellar clusters.</li>
-  <li><strong>Galactic molecular clouds across various environment:</strong> from nearby high-latitude clouds to Galactic large-scale filaments to the Central Molecular Zone.</li>
-  <li><strong>Millimeter and radio surveys:</strong> survey design, interferometric imaging, continuum-source catalogs, and molecular-line diagnostics.</li>
+  <li><strong>Massive protostellar cluster formation:</strong> uncovering how clouds fragment, channel gas, and dynamically assemble the dense clusters in which massive stars are born.</li>
+  <li><strong>Astrochemistry:</strong> reading the molecular fingerprints of hot cores to reconstruct their chemical evolution during massive-star formation.</li>
+  <li><strong>Magnetic fields:</strong> using millimeter-wavelength dust polarization to reveal how magnetic fields shape collapsing clouds, cores, and clusters.</li>
+  <li><strong>Molecular clouds across Galactic environments:</strong> connecting cloud physics across the Milky Way—from nearby high-latitude clouds and giant Galactic filaments to the extreme Central Molecular Zone.</li>
+  <li><strong>Millimeter and radio interferometry:</strong> turning challenging observations into high-contrast, high-dynamic-range images through precision calibration and advanced imaging.</li>
 </ul>
 
 ## Recent highlights
