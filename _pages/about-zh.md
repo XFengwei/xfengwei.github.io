@@ -11,7 +11,7 @@ translation_url: /
 
 我的研究结合前沿观测、辐射转移建模和机器学习方法。我主要使用目前灵敏度最高的（亚）毫米干涉阵列 ALMA，并结合 JWST、JVLA、SMA、NOEMA、IRAM 30 米望远镜和 APEX 等观测设施。
 
-我于 2025 年在北京大学<a href="https://kiaa.pku.edu.cn">科维理天文与天体物理研究所</a>获得天文学博士学位，并于 2020 年在北京大学获得物理学学士学位。我的博士学位论文入选 2025 年北京大学优秀博士学位论文。
+我于 2025 年在北京大学<a href="https://kiaa.pku.edu.cn">科维理天文与天体物理研究所</a>获得天文学博士学位，并于 2020 年在北京大学获得物理学学士学位。我的博士学位论文入选 2025 年北京大学优秀博士学位论文（[博士学位论文](https://datashare.mpcdf.mpg.de/s/StWHA4TLxpaiReH) · [博士答辩幻灯片](https://datashare.mpcdf.mpg.de/s/CWMjNTEckYJa6Ze)）。
 
 <div class="profile-links">
   <a class="btn btn--primary" href="/zh/research/">研究</a>

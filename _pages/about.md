@@ -14,7 +14,7 @@ redirect_from:
 
 My research combines the state-of-the-art observations, radiative-transfer modeling, and machine-learning methods. I work primarily with the best (sub)millimeter interferometer, ALMA, complemented by facilities including the JWST, JVLA, SMA, NOEMA, the IRAM 30-m, APEX, and etc.
 
-I received my Ph.D. in Astronomy from the <a href="https://kiaa.pku.edu.cn">Kavli Institute for Astronomy and Astrophysics</a> at Peking University in 2025 and my B.S. in Physics from Peking University in 2020. My doctoral dissertation was selected as a 2025 Peking University Outstanding Doctoral Dissertation.
+I received my Ph.D. in Astronomy from the <a href="https://kiaa.pku.edu.cn">Kavli Institute for Astronomy and Astrophysics</a> at Peking University in 2025 and my B.S. in Physics from Peking University in 2020. My doctoral dissertation was selected as a 2025 Peking University Outstanding Doctoral Dissertation ([Ph.D. thesis](https://datashare.mpcdf.mpg.de/s/StWHA4TLxpaiReH) · [Defense slides](https://datashare.mpcdf.mpg.de/s/CWMjNTEckYJa6Ze)).
 
 <div class="profile-links">
   <a class="btn btn--primary" href="/research/">Research</a>
