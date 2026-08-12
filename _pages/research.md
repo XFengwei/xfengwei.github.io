@@ -3,6 +3,8 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+lang: en
+translation_url: /zh/research/
 ---
 
 My work examines how interstellar gas is organized and converted into stars, from parsec-scale molecular clouds to structures on scales of hundreds of astronomical units. The projects below combine wide-area surveys with high-resolution follow-up observations to connect cloud structure, dense cores, accretion flows, and young stellar systems.

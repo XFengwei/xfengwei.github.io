@@ -19,4 +19,16 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+{% if page.lang and page.translation_url %}
+  {% if page.lang == "zh-CN" %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ base_path }}{{ page.url }}" />
+    <link rel="alternate" hreflang="en" href="{{ base_path }}{{ page.translation_url }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ base_path }}{{ page.translation_url }}" />
+  {% else %}
+    <link rel="alternate" hreflang="en" href="{{ base_path }}{{ page.url }}" />
+    <link rel="alternate" hreflang="zh-CN" href="{{ base_path }}{{ page.translation_url }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ base_path }}{{ page.url }}" />
+  {% endif %}
+{% endif %}
+
 <!-- end custom head snippets -->

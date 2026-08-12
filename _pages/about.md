@@ -3,6 +3,8 @@ permalink: /
 title: "Fengwei Xu 许峰玮"
 excerpt: "Astrophysicist studying massive star and cluster formation"
 author_profile: true
+lang: en
+translation_url: /zh/
 redirect_from:
   - /about/
   - /about.html
