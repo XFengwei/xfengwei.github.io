@@ -16,7 +16,7 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Astronomy**, Kavli Institute for Astronomy and Astrophysics, Peking University, 2020-2025.
+- **Ph.D. in Astronomy**, Kavli Institute for Astronomy and Astrophysics, Peking University, 2020-2025. [Ph.D. thesis](https://datashare.mpcdf.mpg.de/s/StWHA4TLxpaiReH) · [Defense slides](https://datashare.mpcdf.mpg.de/s/CWMjNTEckYJa6Ze).
 - **B.S. in Physics**, School of Physics, Peking University, 2016-2020.
 
 ## Research projects
