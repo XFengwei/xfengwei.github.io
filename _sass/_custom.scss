@@ -74,6 +74,25 @@
   font-size: $type-size-6;
 }
 
+.talk-detail__back {
+  margin: 0 0 1rem;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+}
+
+.talk-detail__back a {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.talk-detail__back a:hover,
+.talk-detail__back a:focus {
+  text-decoration: underline;
+}
+
 .talk-detail__meta {
   display: flex;
   flex-wrap: wrap;
