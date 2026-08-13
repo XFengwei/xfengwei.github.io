@@ -20,6 +20,17 @@ The first LANCET results use wide-field ALMA mosaic pointings to follow how dens
   <figcaption>A multiscale view of the G316.8 filament, combining ALMA 12-m, 7-m, and total-power observations to recover structures from the molecular-cloud scale down to compact dense cores.</figcaption>
 </figure>
 
+## MagMaR: magnetic fields in a forming massive cluster
+
+The **[Magnetic Fields in Massive Star-forming Regions (MagMaR)](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html)** project uses ALMA polarization observations to reveal how magnetic fields guide gas as massive stars and clusters take shape. In W33 A, the observations resolve 20 dense cores and nine filaments and show that magnetic fields can play several roles within the same protocluster: supporting filaments against collapse, channeling a smooth accretion flow into the central core MM1, and delaying the collapse of MM2 ([Xu et al. 2026](https://doi.org/10.1051/0004-6361/202558322)).
+
+Forthcoming work from **[ALMA project 2023.1.01606.S](https://almascience.eso.org/asax/?result_view=project&project_code=2023.1.01606.S)**, *Magnetic Fields in Massive Collapsing Clumps*, applies a similar observing setup to 17 additional fields toward high-mass star-forming regions. This larger sample will test whether the diverse magnetic-field behavior seen in W33 A is common across massive cluster-forming environments.
+
+<figure class="research-figure">
+  <img src="/images/research/magmar-w33a-magnetic-field.png" alt="ALMA 1.2 millimeter map of W33 A with yellow segments tracing magnetic-field directions across filaments and dense cores">
+  <figcaption>Magnetic fingerprints across W33 A. The pale background traces dust in the forming cluster, while the short yellow lines show the inferred direction of the magnetic field. The right panel highlights two broad field patterns and the locally distorted fields around MM1 and MM2, revealing how magnetic forces respond differently from one part of the same protocluster to another. Adapted from Figure 3 of Xu et al. (2026).</figcaption>
+</figure>
+
 ## DUET: star formation in the Galactic Center
 
 The **[Dual-band Unified Exploration of Three CMZ Clouds (DUET)](https://cmzconcert.github.io/#programs)** targets the 20 km s<sup>-1</sup> cloud, Sgr C, and dust-ridge cloud e with ALMA at 1.3 and 3 mm. The matched 0.2-0.3 arcsec resolution corresponds to roughly 2,000 au at the Galactic Center.

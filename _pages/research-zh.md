@@ -20,6 +20,17 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
   <figcaption>G316.8 纤维的多尺度图像：联合 ALMA 12 米阵、7 米阵和总功率观测，恢复从分子云到紧致致密核的完整结构。</figcaption>
 </figure>
 
+## MagMaR：正在形成的大质量星团中的磁场
+
+**[大质量恒星形成区磁场项目（Magnetic Fields in Massive Star-forming Regions，MagMaR）](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html)**利用 ALMA 偏振观测，揭示磁场如何引导气体并参与大质量恒星和星团的形成。在 W33 A 中，观测分辨出 20 个致密核和 9 条纤维，并表明磁场可以在同一个原星团内发挥多种作用：支撑纤维免于坍缩、将平稳的吸积流引向中心致密核 MM1，以及延缓 MM2 的坍缩（[Xu et al. 2026](https://doi.org/10.1051/0004-6361/202558322)）。
+
+即将开展的 **[ALMA 项目 2023.1.01606.S](https://almascience.eso.org/asax/?result_view=project&project_code=2023.1.01606.S)**（*Magnetic Fields in Massive Collapsing Clumps*）将类似的观测配置应用于另外 17 个大质量恒星形成区视场。这一更大样本将检验 W33 A 中发现的多样磁场行为，在大质量星团形成环境中是否普遍存在。
+
+<figure class="research-figure">
+  <img src="/images/research/magmar-w33a-magnetic-field.png" alt="W33 A 的 ALMA 1.2 毫米图像，黄色短线展示纤维和致密核上的磁场方向">
+  <figcaption>W33 A 中的磁场印记。浅色背景展示正在形成的星团中的尘埃，黄色短线表示推断出的磁场方向。右图标出了两组大尺度磁场结构，以及 MM1 和 MM2 附近发生局部扭曲的磁场，显示磁力在同一个原星团的不同区域会以不同方式参与演化。改编自 Xu et al.（2026）的图 3。</figcaption>
+</figure>
+
 ## DUET：银河系中心的恒星形成
 
 **[中央分子区三朵分子云双波段统一探测（Dual-band Unified Exploration of Three CMZ Clouds，DUET）](https://cmzconcert.github.io/#programs)**使用 ALMA 在 1.3 和 3 mm 波段观测 20 km s<sup>-1</sup> 分子云、Sgr C 和尘埃脊分子云 e。匹配后的 0.2–0.3 角秒分辨率，在银河系中心距离上对应约 2,000 au。
