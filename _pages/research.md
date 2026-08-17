@@ -15,6 +15,8 @@ The **Linear Filament and Nested Cluster Evolution Tomography (LANCET)** program
 
 The first LANCET results use wide-field ALMA mosaic pointings to follow how dense gas structure and star formation change along the filament ([Xu et al. 2026](https://doi.org/10.1051/0004-6361/202557480)). The second LANCET study combines observations across the full range of spatial scales—from the highest-resolution ALMA configurations to total-power single-dish data—to achieve exceptional image dynamic range and physical-scale coverage. This unprecedented data set reveals how structure emerges from molecular clouds down to dense cores (Xu et al., A&A, under review).
 
+Forthcoming LANCET work extends this multiscale approach to the C<sup>18</sup>O (2–1) molecular line. The combined data achieve the same high angular resolution while retaining extended, large-scale emission. A velocity resolution of 0.085 km s<sup>−1</sup> separates fine kinematic components that would otherwise blend together, allowing us to trace how gas flows through the filament and into its dense, cluster-forming structures.
+
 <figure class="research-figure">
   <img src="/images/research/lancet-multiscale-continuum.png" alt="Combined multiscale continuum image of the G316.8 filament, showing extended cloud structure and compact dense cores">
   <figcaption>A multiscale view of the G316.8 filament, combining ALMA 12-m, 7-m, and total-power observations to recover structures from the molecular-cloud scale down to compact dense cores.</figcaption>
