@@ -48,7 +48,7 @@ The survey produced a dual-band catalog of 450 continuum sources. More than 70% 
 
 ## QUARKS and ATOMS: a survey view of massive clumps
 
-**[QUARKS](https://almaquarks.github.io/)** (Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures) observes 139 massive star-forming clumps at 1.3 mm. Its combination with the 3-mm **[ATOMS](https://almaquarks.github.io/)** survey provides a multiscale view of cold dense gas, molecular-line kinematics, and ionized feedback.
+**[QUARKS](https://almaquarks.github.io/)** (Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures) observes 139 massive star-forming clumps at 1.3 mm. Its combination with the 3-mm **[ATOMS](https://almaquarks.github.io/legacy/)** survey provides a multiscale view of cold dense gas, molecular-line kinematics, and ionized feedback.
 
 Using the compact-array component of QUARKS, I cataloged dense-gas fragments and measured an evolutionary increase in the dense-gas fraction across the survey sample ([Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024RAA....24f5011X/abstract)). With ATOMS, I traced four filamentary inflow streams in SDC335 and connected global collapse to core-scale feeding ([Xu et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3259X/abstract)).
 
