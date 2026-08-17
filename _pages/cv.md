@@ -21,7 +21,7 @@ redirect_from:
 
 ## Research projects
 - [LANCET](https://ui.adsabs.harvard.edu/abs/2026A&A...708A.251X/abstract) (PI): evolutionary tomography of dense gas and nested cluster formation.
-- [QUARKS/ATOMS](https://almaquarks.github.io/) (Co-PI): dense-gas assembly, molecular kinematics, and stellar feedback in massive clumps.
+- [QUARKS](https://almaquarks.github.io/)/[ATOMS](https://almaquarks.github.io/legacy/) (Co-PI): dense-gas assembly, molecular kinematics, and stellar feedback in massive clumps.
 - [ASSEMBLE](https://ui.adsabs.harvard.edu/public-libraries/YZYUDv-6T-SRf4XzTFTXhg) (PI): fragmentation, accretion, and the evolution of massive protoclusters.
 - [HLPC](https://ui.adsabs.harvard.edu/public-libraries/n_C2xkGUTzydLH57i0-BKQ) (PI): High-latitude molecular clouds and the local interstellar medium (PI).
 - [DUET](https://cmzconcert.github.io/#programs) (Co-I): matched-resolution ALMA survey of three Central Molecular Zone clouds ([interactive magnifier](https://xfengwei.github.io/magnifier/)).

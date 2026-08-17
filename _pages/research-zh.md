@@ -48,7 +48,7 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
 
 ## QUARKS 与 ATOMS：大质量团块巡天
 
-**[QUARKS](https://almaquarks.github.io/)**（Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures）在 1.3 mm 波段观测了 139 个大质量恒星形成团块。它与 3 mm **[ATOMS](https://almaquarks.github.io/)** 巡天相结合，提供了冷致密气体、分子谱线运动学和电离反馈的多尺度图景。
+**[QUARKS](https://almaquarks.github.io/)**（Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures）在 1.3 mm 波段观测了 139 个大质量恒星形成团块。它与 3 mm **[ATOMS](https://almaquarks.github.io/legacy/)** 巡天相结合，提供了冷致密气体、分子谱线运动学和电离反馈的多尺度图景。
 
 利用 QUARKS 的紧凑阵列数据，我建立了致密气体碎片星表，并测量到巡天样本中致密气体比例随演化阶段系统增加（[Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024RAA....24f5011X/abstract)）。借助 ATOMS，我在 SDC335 中追踪到四条纤维状内流，并将整体坍缩与致密核尺度的物质供给联系起来（[Xu et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3259X/abstract)）。
 
