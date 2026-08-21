@@ -29,10 +29,11 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{% if author_is_zh and author.location_zh %}{{ author.location_zh }}{% else %}{{ author.location }}{% endif %}</li>
       {% endif %}
-      {% if author.employer %}
+      {% if author.employer and author.uri %}
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% if author_is_zh and author.employer_zh %}{{ author.employer_zh }}{% else %}{{ author.employer }}{% endif %}</a></li>
+      {% elsif author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% if author_is_zh and author.employer_zh %}{{ author.employer_zh }}{% else %}{{ author.employer }}{% endif %}</li>
-      {% endif %}
-      {% if author.uri %}
+      {% elsif author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{% if author_is_zh %}机构主页{% else %}{{ site.data.ui-text[site.locale].website_label | default: "Website" }}{% endif %}</a></li>
       {% endif %}
       {% if author.email %}
