@@ -24,7 +24,7 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
 
 ## MagMaR：正在形成的大质量星团中的磁场
 
-**[大质量恒星形成区磁场项目（Magnetic Fields in Massive Star-forming Regions，MagMaR）](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html)**利用 ALMA 偏振观测，揭示磁场如何引导气体并参与大质量恒星和星团的形成。在 W33 A 中，观测分辨出 20 个致密核和 9 条纤维，并表明磁场可以在同一个原星团内发挥多种作用：支撑纤维免于坍缩、将平稳的吸积流引向中心致密核 MM1，以及延缓 MM2 的坍缩（[Xu et al. 2026](https://doi.org/10.1051/0004-6361/202558322)）。
+**[大质量恒星形成区磁场项目（Magnetic Fields in Massive Star-forming Regions，MagMaR）](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html)**利用 ALMA 偏振观测，揭示磁场如何引导气体并参与大质量恒星和星团的形成。在 W33 A 中，观测分辨出 20 个致密核和 9 条纤维，并表明磁场可以在同一个原星团内发挥多种作用：支撑纤维免于坍缩、将平稳的吸积流引向中心致密核 MM1，以及延缓 MM2 的坍缩（[Xu et al. 2026](https://www.aanda.org/articles/aa/full_html/2026/09/aa58322-25/aa58322-25.html)）。
 
 即将开展的 **[ALMA 项目 2023.1.01606.S](https://almascience.eso.org/asax/?result_view=project&project_code=2023.1.01606.S)**（*Magnetic Fields in Massive Collapsing Clumps*）将类似的观测配置应用于另外 17 个大质量恒星形成区视场。这一更大样本将检验 W33 A 中发现的多样磁场行为，在大质量星团形成环境中是否普遍存在。
 
