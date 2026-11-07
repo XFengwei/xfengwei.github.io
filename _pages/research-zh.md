@@ -11,6 +11,8 @@ translation_url: /research/
 
 ## LANCET：巨型纤维中的演化序列
 
+[LANCET 项目主页](https://xfengwei.github.io/LANCET/index.html)
+
 **线性纤维与嵌套星团演化层析（Linear Filament and Nested Cluster Evolution Tomography，LANCET）**项目（[ALMA 项目 2016.1.00909.S](https://almascience.eso.org/asax/?result_view=project&project_code=2016.1.00909.S)）以近乎线性、长达 14 pc 的 G316.8 纤维作为受控实验室。相邻子区域拥有相近的气体储量，却覆盖清晰的演化序列。因此，匹配的观测能够把真正的演化差异从银河系大样本中常见的距离与环境效应中分离出来。
 
 LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致密气体结构和恒星形成活动随演化阶段的变化（[Xu et al. 2026](https://doi.org/10.1051/0004-6361/202557480)）。第二项 LANCET 研究联合从最高分辨率 ALMA 阵列构型到总功率单天线的全尺度观测，实现了卓越的图像动态范围和物理尺度覆盖。这套前所未有的数据揭示了结构如何从分子云尺度逐级形成至致密核尺度（Xu et al.，A&A，审稿中）。
