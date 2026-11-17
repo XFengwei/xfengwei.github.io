@@ -1,13 +1,25 @@
 /* Site-specific refinements kept separate from the Academic Pages theme. */
 
+.page__title {
+  font-size: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
+  line-height: 1.15;
+}
+
 .page__content {
   line-height: 1.72;
 }
 
 .page__content h2 {
+  font-size: clamp(1.25rem, 1.15rem + 0.45vw, 1.5rem);
+  line-height: 1.25;
   margin-top: 2em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid rgba(127, 127, 127, 0.25);
+}
+
+.page__content .tool-links {
+  font-size: 0.9375rem;
+  line-height: 1.5;
 }
 
 .profile-summary {
