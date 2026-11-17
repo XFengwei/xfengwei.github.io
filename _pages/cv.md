@@ -22,8 +22,8 @@ redirect_from:
 ## Research projects
 - [LANCET](https://xfengwei.github.io/LANCET/index.html) (PI): evolutionary tomography of dense gas and nested cluster formation.
 - [QUARKS](https://almaquarks.github.io/)/[ATOMS](https://almaquarks.github.io/legacy/) (Co-PI): dense-gas assembly, molecular kinematics, and stellar feedback in massive clumps.
-- [ASSEMBLE](https://ui.adsabs.harvard.edu/public-libraries/YZYUDv-6T-SRf4XzTFTXhg) (PI): fragmentation, accretion, and the evolution of massive protoclusters.
-- [HLPC](https://ui.adsabs.harvard.edu/public-libraries/n_C2xkGUTzydLH57i0-BKQ) (PI): High-latitude molecular clouds and the local interstellar medium (PI).
+- [ASSEMBLE](https://scixplorer.org/public-libraries/YZYUDv-6T-SRf4XzTFTXhg) (PI): fragmentation, accretion, and the evolution of massive protoclusters.
+- [HLPC](https://scixplorer.org/public-libraries/n_C2xkGUTzydLH57i0-BKQ) (PI): High-latitude molecular clouds and the local interstellar medium (PI).
 - [DUET](https://cmzconcert.github.io/#programs) (Co-I): matched-resolution ALMA survey of three Central Molecular Zone clouds ([interactive magnifier](https://xfengwei.github.io/magnifier/)).
 - [MagMaR](https://groups.astron.s.u-tokyo.ac.jp/psanhueza/MagMaR.html) (Co-I): Magnetic fields in massive star-forming regions.
 
