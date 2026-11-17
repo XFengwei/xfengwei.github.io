@@ -9,15 +9,35 @@
   line-height: 1.72;
 }
 
-.page__content h2 {
+.page__content h2,
+.archive > h2 {
   font-size: unquote("clamp(1.25rem, 1.15rem + 0.45vw, 1.5rem)");
   line-height: 1.25;
+}
+
+.page__content h3,
+.archive h3,
+.archive .archive__item-title {
+  font-size: unquote("clamp(1.1rem, 1.04rem + 0.3vw, 1.25rem)");
+  line-height: 1.35;
+}
+
+.archive .archive__item-excerpt {
+  font-size: 1rem;
+}
+
+.page__content h2 {
   margin-top: 2em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid rgba(127, 127, 127, 0.25);
 }
 
-.page__content .tool-links {
+.page__content .tool-links,
+.profile-links .btn,
+.talk-detail__official-link .btn,
+.cv-download,
+.talk-list__links,
+.talk-detail__back {
   font-size: 0.9375rem;
   line-height: 1.5;
 }
@@ -83,13 +103,11 @@
 .talk-list__links {
   margin: 0.45rem 0 0;
   font-family: $sans-serif;
-  font-size: $type-size-6;
 }
 
 .talk-detail__back {
   margin: 0 0 1rem;
   font-family: $sans-serif;
-  font-size: $type-size-6;
 }
 
 .talk-detail__back a {
