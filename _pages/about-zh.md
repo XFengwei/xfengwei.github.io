@@ -34,6 +34,6 @@ translation_url: /
 - **MagMaR（2026）：** ALMA 全偏振观测在 W33 A 中分辨出 20 个致密核和 9 条纤维，表明磁场能够稳定纤维结构、调控吸积并延缓致密核坍缩（[A&A 713, A145](https://www.aanda.org/articles/aa/full_html/2026/09/aa58322-25/aa58322-25.html)）。
 - **LANCET（2026）：** 线性纤维与嵌套星团演化层析项目的首篇研究，追踪了长达 14 pc 的 G316.8 纤维中致密气体随演化阶段的变化（[A&A 708, A251](https://doi.org/10.1051/0004-6361/202557480)）。
 - **DUET（2025）：** 对中央分子区三朵分子云开展匹配分辨率的 ALMA 双波段普查，识别出 450 个连续谱源，并发现其中普遍存在低谱指数现象（[A&A 697, A164](https://doi.org/10.1051/0004-6361/202453601)）。
-- **ASSEMBLE（2024）：** ALMA 对比观测揭示了大质量原星团演化过程中致密核质量的系统增长、星团收缩以及原初质量分层（[ApJS 270, 9](https://ui.adsabs.harvard.edu/abs/2024ApJS..270....9X/abstract)）。
+- **ASSEMBLE（2024）：** ALMA 对比观测揭示了大质量原星团演化过程中致密核质量的系统增长、星团收缩以及原初质量分层（[ApJS 270, 9](https://scixplorer.org/abs/2024ApJS..270....9X/abstract)）。
 
-我的第一作者论文见 [NASA ADS 专题文库](https://ui.adsabs.harvard.edu/public-libraries/QdXmzWfnRJWoMKHxajfQIg)。完整论文记录见 [NASA ADS 文库](https://ui.adsabs.harvard.edu/public-libraries/EZRCdNNLSpCzTzQPekkKZA)或 [ORCID](https://orcid.org/0000-0001-5950-1932)。
+我的第一作者论文见 [SciX 专题文库](https://scixplorer.org/public-libraries/QdXmzWfnRJWoMKHxajfQIg)。完整论文记录见 [SciX 文库](https://scixplorer.org/public-libraries/EZRCdNNLSpCzTzQPekkKZA)或 [ORCID](https://orcid.org/0000-0001-5950-1932)。

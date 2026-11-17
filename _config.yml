@@ -38,7 +38,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  adsabs           : "https://ui.adsabs.harvard.edu/public-libraries/EZRCdNNLSpCzTzQPekkKZA"
+  scix             : "https://scixplorer.org/public-libraries/EZRCdNNLSpCzTzQPekkKZA"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gUSwFUkAAAAJ&hl=en"
   inspire-hep      : # URL

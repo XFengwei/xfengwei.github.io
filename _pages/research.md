@@ -52,7 +52,7 @@ The survey produced a dual-band catalog of 450 continuum sources. More than 70% 
 
 **[QUARKS](https://almaquarks.github.io/)** (Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures) observes 139 massive star-forming clumps at 1.3 mm. Its combination with the 3-mm **[ATOMS](https://almaquarks.github.io/legacy/)** survey provides a multiscale view of cold dense gas, molecular-line kinematics, and ionized feedback.
 
-Using the compact-array component of QUARKS, I cataloged dense-gas fragments and measured an evolutionary increase in the dense-gas fraction across the survey sample ([Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024RAA....24f5011X/abstract)). With ATOMS, I traced four filamentary inflow streams in SDC335 and connected global collapse to core-scale feeding ([Xu et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3259X/abstract)).
+Using the compact-array component of QUARKS, I cataloged dense-gas fragments and measured an evolutionary increase in the dense-gas fraction across the survey sample ([Xu et al. 2024](https://scixplorer.org/abs/2024RAA....24f5011X/abstract)). With ATOMS, I traced four filamentary inflow streams in SDC335 and connected global collapse to core-scale feeding ([Xu et al. 2023](https://scixplorer.org/abs/2023MNRAS.520.3259X/abstract)).
 
 <figure class="research-figure">
   <img src="/images/research/quarks-multiphase.jpeg" alt="Multiphase dust, molecular gas, and ionized gas structure in a QUARKS target">
@@ -66,7 +66,7 @@ Using the compact-array component of QUARKS, I cataloged dense-gas fragments and
 
 ## ASSEMBLE: the growth of massive protoclusters
 
-The **ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles (ASSEMBLE)** studies fragmentation and accretion through an evolutionary sequence of massive protoclusters. A comparison with early-stage ASHES targets shows systematic increases in core mass and surface density, together with cluster contraction and primordial mass segregation ([Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJS..270....9X/abstract)).
+The **ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles (ASSEMBLE)** studies fragmentation and accretion through an evolutionary sequence of massive protoclusters. A comparison with early-stage ASHES targets shows systematic increases in core mass and surface density, together with cluster contraction and primordial mass segregation ([Xu et al. 2024](https://scixplorer.org/abs/2024ApJS..270....9X/abstract)).
 
 <figure class="research-figure">
   <img src="/images/research/assemble-evolution.png" alt="Three-stage scenario for the evolution and mass assembly of massive protoclusters">
@@ -75,7 +75,7 @@ The **ALMA Survey of Star Formation and Evolution in Massive Protoclusters with 
 
 ## High-latitude molecular clouds
 
-High-latitude clouds provide a nearby view of molecular gas under conditions very different from active Galactic-plane star-forming regions. A CO census of 41 Planck Galactic Cold Clumps established their cloud and core properties ([Xu et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..103X/abstract)). Follow-up work found a striking scarcity of dense cores and extremely large virial parameters, constraining whether these clouds can form stars efficiently ([Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L...9X/abstract)).
+High-latitude clouds provide a nearby view of molecular gas under conditions very different from active Galactic-plane star-forming regions. A CO census of 41 Planck Galactic Cold Clumps established their cloud and core properties ([Xu et al. 2021](https://scixplorer.org/abs/2021ApJ...920..103X/abstract)). Follow-up work found a striking scarcity of dense cores and extremely large virial parameters, constraining whether these clouds can form stars efficiently ([Xu et al. 2024](https://scixplorer.org/abs/2024ApJ...963L...9X/abstract)).
 
 <figure class="research-figure">
   <img src="/images/research/high-latitude-clouds.jpg" alt="Northern-sky distribution of high-latitude Planck Galactic Cold Clumps">

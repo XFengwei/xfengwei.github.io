@@ -52,7 +52,7 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
 
 **[QUARKS](https://almaquarks.github.io/)**（Querying Underlying mechanisms of massive star formation with ALMA-Resolved gas Kinematics and Structures）在 1.3 mm 波段观测了 139 个大质量恒星形成团块。它与 3 mm **[ATOMS](https://almaquarks.github.io/legacy/)** 巡天相结合，提供了冷致密气体、分子谱线运动学和电离反馈的多尺度图景。
 
-利用 QUARKS 的紧凑阵列数据，我建立了致密气体碎片星表，并测量到巡天样本中致密气体比例随演化阶段系统增加（[Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024RAA....24f5011X/abstract)）。借助 ATOMS，我在 SDC335 中追踪到四条纤维状内流，并将整体坍缩与致密核尺度的物质供给联系起来（[Xu et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3259X/abstract)）。
+利用 QUARKS 的紧凑阵列数据，我建立了致密气体碎片星表，并测量到巡天样本中致密气体比例随演化阶段系统增加（[Xu et al. 2024](https://scixplorer.org/abs/2024RAA....24f5011X/abstract)）。借助 ATOMS，我在 SDC335 中追踪到四条纤维状内流，并将整体坍缩与致密核尺度的物质供给联系起来（[Xu et al. 2023](https://scixplorer.org/abs/2023MNRAS.520.3259X/abstract)）。
 
 <figure class="research-figure">
   <img src="/images/research/quarks-multiphase.jpeg" alt="QUARKS 目标源中尘埃、分子气体和电离气体的多相结构">
@@ -66,7 +66,7 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
 
 ## ASSEMBLE：大质量原星团的成长
 
-**蓝轮廓大质量原星团恒星形成与演化 ALMA 巡天（ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles，ASSEMBLE）**通过大质量原星团的演化序列研究碎裂与吸积。与早期阶段的 ASHES 目标相比，致密核质量和面密度随演化系统增加，同时星团逐渐收缩并呈现原初质量分层（[Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJS..270....9X/abstract)）。
+**蓝轮廓大质量原星团恒星形成与演化 ALMA 巡天（ALMA Survey of Star Formation and Evolution in Massive Protoclusters with Blue Profiles，ASSEMBLE）**通过大质量原星团的演化序列研究碎裂与吸积。与早期阶段的 ASHES 目标相比，致密核质量和面密度随演化系统增加，同时星团逐渐收缩并呈现原初质量分层（[Xu et al. 2024](https://scixplorer.org/abs/2024ApJS..270....9X/abstract)）。
 
 <figure class="research-figure">
   <img src="/images/research/assemble-evolution.png" alt="大质量原星团演化与质量组装的三阶段示意图">
@@ -75,7 +75,7 @@ LANCET 的首批结果利用 ALMA 大视场马赛克观测，追踪纤维中致�
 
 ## 高银纬分子云
 
-高银纬分子云为研究分子气体提供了邻近样本，其环境与银河平面上活跃的恒星形成区截然不同。我们对 41 个 Planck 银河系冷团块开展 CO 普查，测定了其中分子云和致密核的基本性质（[Xu et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..103X/abstract)）。后续研究发现这些区域中致密核极为稀少，且维里参数异常高，从而限制了它们高效形成恒星的能力（[Xu et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...963L...9X/abstract)）。
+高银纬分子云为研究分子气体提供了邻近样本，其环境与银河平面上活跃的恒星形成区截然不同。我们对 41 个 Planck 银河系冷团块开展 CO 普查，测定了其中分子云和致密核的基本性质（[Xu et al. 2021](https://scixplorer.org/abs/2021ApJ...920..103X/abstract)）。后续研究发现这些区域中致密核极为稀少，且维里参数异常高，从而限制了它们高效形成恒星的能力（[Xu et al. 2024](https://scixplorer.org/abs/2024ApJ...963L...9X/abstract)）。
 
 <figure class="research-figure">
   <img src="/images/research/high-latitude-clouds.jpg" alt="北天高银纬 Planck 银河系冷团块的分布">
