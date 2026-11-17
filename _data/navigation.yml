@@ -14,9 +14,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks & Outreach"
+  - title: "Talks"
     url: /talks/
-    
+
+  - title: "Tools"
+    url: /tools/
+
   - title: "CV"
     url: /cv/
 
@@ -27,8 +30,11 @@ zh:
   - title: "论文"
     url: /publications/
 
-  - title: "报告与科普"
+  - title: "报告"
     url: /talks/
+
+  - title: "工具"
+    url: /tools/
 
   - title: "简历"
     url: /cv/
